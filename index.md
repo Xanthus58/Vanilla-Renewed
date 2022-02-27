@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Xanthus58/Vanilla-Renewed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Hello and welcome to Vanilla Renewed! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Vanilla Renewed Logo](https://user-images.githubusercontent.com/66909997/139557610-8005dc86-4a37-46fd-8544-320ee78941a4.png)
 
-### Markdown
+## We do have winget implementation for fully automatic instillation just open CMD/CLI/Powershell and type "Winget install Xanthus58.XansBetterVanilla"
+this is a highly reccomended install method. However all the other alternitives will still be published
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft.
+From item reworks to texutre fixes and new features like degraded items or custom textures.
 
-```markdown
-Syntax highlighted code block
+## It is highly reccomended to use optifine not only for performence upgrades but for compatability. You may not get the intended effect without it.
 
-# Header 1
-## Header 2
-### Header 3
+### The goal is to have a future-compatable hard to notice adjustment. 
+Something you wont notice while you have it but youll notice it when its gone kinda thing. 
 
-- Bulleted
-- List
+### We have added tons of *smaller things* that are to many to go over, *A very small list of what we've changed are.*
+>Tool degridation
 
-1. Numbered
-2. List
+>Dark UI
 
-**Bold** and _Italic_ and `Code` text
+>Watermelon and pumpkin stems now match the color of the fruit they produce.
 
-[Link](url) and ![Image](src)
-```
+>Better wool textures and upgrades
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+>Darker dark oak planks
 
-### Jekyll Themes
+>Consistency across various items, features
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xanthus58/Vanilla-Renewed/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+>Brown leather and all of the associated items.
 
-### Support or Contact
+>Banners on shields now display properly
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+>Arrows now have a black tip to represent the flint that's required to craft the them.
+
+>Polished granite and andesite now show as bricks. 
+
+>Water and leaves now sway in the wind.
+
+>The sun and moon are now round.
+
+>Snow has had the blue tint removed from it.
+
+>Some Blocks now have variation.
+
+>Some blocks now have connected textures.
+
+>The crosshair has been changed to a dot.
+
+>Small texture updates and upgrades.
+
+>Various small QOL stuff like arrows on hoppers to display direction and food now displaying how much hunger they give.
+
+>Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
+
+# Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact email us on VanillaRenewed@pm.me
+
+Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
+
+Below are my personal recommended shaders and their associated links.
+
+https://www.optifine.net/home
+
+https://www.sonicether.com/seus/
+
+https://sildurs-shaders.github.io/
+
+SEUS PTGI is an experimental version of SEUS that includes a totally custom software implementation of ray tracing that does not require an RTX graphics card and will work on any NVIDIA graphics card (though low-end cards may struggle with performance. AMD compatibility is still being worked on). The “PTGI” in the name stands for “Path Traced Global Illumination”, which is the main feature of this project. It also includes ray traced reflections.
+
+SEUS Renewed is a reinvention of the legacy versions of SEUS that brings you quality visuals at a reasonable performance using traditional rasterization-based rendering methods. There are some unreleased development versions of SEUS Renewed, but most of my development time lately goes into developing SEUS PTGI.
+
+Sildur's Shaders is an extension of the GLSL shader mod for Minecraft, now part of Optifine.
+Vibrant shaders completely revamps the lighting system of Minecraft and adds advanced effects like volumetric lighting, bloom, ambient occlusion and reflections. While still maintaining high performance.
+
+# All of the aforementioned shaders rely on optifine.
+
+
+## I hope you enjoy your time with Vanilla Renewed and thank you for checking it out! 
+### If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862 or email us on VanillaRenewed@pm.me
