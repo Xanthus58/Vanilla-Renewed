@@ -3,8 +3,10 @@
 
 ![Vanilla Renewed Logo](https://user-images.githubusercontent.com/66909997/139557610-8005dc86-4a37-46fd-8544-320ee78941a4.png)
 
-## We do have winget implementation for fully automatic installation just open CMD/CLI/Powershell and type "`Winget install Xanthus58.XansBetterVanilla`"
+## We do have winget implementation for fully automatic installation just open CMD/CLI/Powershell and type `"Winget install Xanthus58.VanillaRenewed"`
 this is a highly reccomended install method. However all the other alternitives will still be published
+
+![You may also download the installer here!](https://github.com/Xanthus58/Vanilla-Renewed/releases)
 
 ### This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft.
 From item reworks to texture fixes and new features like degraded items or custom textures.
@@ -19,9 +21,17 @@ Something you wont notice while you have it but you'll notice it when its gone k
 
 >Dark UI
 
+>Stackable Items
+
+>The crosshair has been changed to a dot.
+
+>Some blocks now have connected textures.
+
+>Brown leather and all of the associated items.
+
 >Watermelon and pumpkin stems now match the color of the fruit they produce.
 
->Better wool textures and upgrades
+>Better wool textures
 
 >Darker dark oak planks
 
@@ -35,7 +45,7 @@ Something you wont notice while you have it but you'll notice it when its gone k
 
 >Polished granite and andesite now show as bricks. 
 
->Water and leaves now sway in the wind.
+>Water now sway in the wind.
 
 >The sun and moon are now round.
 
@@ -44,8 +54,6 @@ Something you wont notice while you have it but you'll notice it when its gone k
 >Some Blocks now have variation.
 
 >Some blocks now have connected textures.
-
->The crosshair has been changed to a dot.
 
 >Small texture updates and upgrades.
 
@@ -66,12 +74,23 @@ https://www.sonicether.com/seus/
 
 https://sildurs-shaders.github.io/
 
+https://www.curseforge.com/minecraft/customization/complementary-shaders/files
+
 SEUS PTGI is an experimental version of SEUS that includes a totally custom software implementation of ray tracing that does not require an RTX graphics card and will work on any NVIDIA graphics card (though low-end cards may struggle with performance. AMD compatibility is still being worked on). The “PTGI” in the name stands for “Path Traced Global Illumination”, which is the main feature of this project. It also includes ray traced reflections.
 
 SEUS Renewed is a reinvention of the legacy versions of SEUS that brings you quality visuals at a reasonable performance using traditional rasterization-based rendering methods. There are some unreleased development versions of SEUS Renewed, but most of my development time lately goes into developing SEUS PTGI.
 
 Sildur's Shaders is an extension of the GLSL shader mod for Minecraft, now part of Optifine.
 Vibrant shaders completely revamps the lighting system of Minecraft and adds advanced effects like volumetric lighting, bloom, ambient occlusion and reflections. While still maintaining high performance.
+
+Complementary is a Minecraft Java Edition shader pack based on Capt Tatsu's "BSL Shaders". The goal of Complementary is being good at everything. Performance, gameplay, beauty, compatibility; you name it. Complementary will try to provide you with the most issueless experience possible within the limitations of Optifine's shader pipeline. It runs reasonably fast, supports almost every GPU and driver, works well with mods that no one thought a shader pack could be compatible with, fixes problems that no other shader packs addressed before, doesn't disturb you with excessive effects, and most importantly, it looks good according to the users. If you're wondering about what's changed over BSL, you can check out the complete changelog from BSL to Complementary here: https://justpaste.it/2z91q
+
+### Extra Credits
+>Custom potions @PINPAL | https://pinpal.github.io/ | https://www.curseforge.com/minecraft/texture-packs/unique-potions
+
+>Various bug fixes and texture additions @WolfenXVII | https://github.com/WolfenXVII | https://github.com/Xanthus58/Vanilla-Renewed/commits?author=WolfenXVII
+
+>Custom Textures @Parzival2284 | https://github.com/Parzival2284 | https://github.com/Xanthus58/Vanilla-Renewed/commits?author=Parzival2284
 
 # All of the aforementioned shaders rely on optifine.
 
